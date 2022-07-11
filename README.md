@@ -6,9 +6,9 @@
 > [https://albertnath.github.io/MySite/](https://albertnath.github.io/MySite/)
 
 <p align="center"> 
-  <a href=_blank> <img align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=AlbertNath&show_icons=true&theme=nord&hide_border=true" /> 
+  <a href="#"> <img align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=AlbertNath&show_icons=true&theme=nord&hide_border=true" /> 
   </a> 
-  <a href=_blank> <img align="center" width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertNath&layout=compact&theme=nord&hide_border=true" /> 
+  <a href="#"> <img align="center" width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertNath&layout=compact&theme=nord&hide_border=true" /> 
   </a>
 </p>
 
